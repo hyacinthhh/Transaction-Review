@@ -1,0 +1,7 @@
+{
+  "name": "复盘侠",
+  "description": "上传您的交易成交记录截图，让AI老兵给您的交易行为来一次辛辣、刻薄且扎心的全方位点评。直击人性弱点，专治各种交易不服。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
