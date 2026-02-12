@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { AppState, AnalysisResult as AnalysisResultType } from './types';
-import { analyzeTradingBehavior } from './services/geminiService';
+import { analyzeTradingBehavior } from './services/deepseekService';
 import Header from './components/Header';
 import FileUploader from './components/FileUploader';
 import AnalysisResult from './components/AnalysisResult';
